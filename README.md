@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @nikhilnikhihr
+- 👋 Hi, I’m @nikhil hacker
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-nikhilnikhihr/nikhilnikhihr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+nikhilnikhihr/nikhil hacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ----->troll_shastri_official_hack
 
